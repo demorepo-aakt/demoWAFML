@@ -1,0 +1,90 @@
+
+/node_modules
+*.csv
+aws-credentials.txt
+.aws/
+credentials
+*.bat
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Terraform
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+*.tfstate.backup.*
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
+*.tfplan
+*.tfplan.*
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+.terraform.lock.hcl.backup
+
+# Logs
+*.log
+logs/
+detection_history.csv
+
+# ML Models
+models/
+*.joblib
+*.pkl
+
+# RAG Knowledge Base
+terraform_knowledge/
+
+# Data Files
+*.json
+
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Temporary files
+tmp/
+temp/

@@ -1,0 +1,9 @@
+# MCP Server Dependencies
+# No external dependencies required - uses only Python standard library
+# This server manually implements the MCP protocol without external packages
+
+# Optional: If you want to use the official MCP SDK (requires Python 3.10+)
+# mcp>=1.0.0
+
+# Optional: For enhanced HTTP requests (if replacing urllib)
+# httpx>=0.25.0
