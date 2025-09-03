@@ -52,6 +52,9 @@ graph TB
         I3[Security Patterns]
     end
 ```
+## Flow state diagram
+
+<img width="3840" height="3446" alt="Untitled diagram _ Mermaid Chart-2025-09-03-234924" src="https://github.com/user-attachments/assets/8536829d-105d-42ff-acee-01dce67e217f" />
 
 ## Quick Start
 
@@ -62,6 +65,7 @@ graph TB
 - Python 3.8+
 - AWS CLI configured
 - Node.js 16+ (for React UI)
+
 
 ### 1. Clone and Setup
 
